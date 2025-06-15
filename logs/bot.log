@@ -1,0 +1,539 @@
+[2025-06-15T02:48:56.994Z] [INFO] Command geladen: craft 
+[2025-06-15T02:48:56.999Z] [INFO] Command geladen: list 
+[2025-06-15T02:48:57.001Z] [INFO] Command geladen: stats 
+[2025-06-15T02:48:57.004Z] [INFO] Event geladen: interactionCreate 
+[2025-06-15T02:48:57.005Z] [INFO] Event geladen: ready 
+[2025-06-15T02:48:57.596Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[2025-06-15T02:49:00.338Z] [INFO] Command geladen: craft 
+[2025-06-15T02:49:00.343Z] [INFO] Command geladen: list 
+[2025-06-15T02:49:00.345Z] [INFO] Command geladen: stats 
+[2025-06-15T02:49:00.347Z] [INFO] Event geladen: interactionCreate 
+[2025-06-15T02:49:00.348Z] [INFO] Event geladen: ready 
+[2025-06-15T02:49:00.826Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[2025-06-15T02:49:03.702Z] [INFO] Command geladen: craft 
+[2025-06-15T02:49:03.707Z] [INFO] Command geladen: list 
+[2025-06-15T02:49:03.708Z] [INFO] Command geladen: stats 
+[2025-06-15T02:49:03.711Z] [INFO] Event geladen: interactionCreate 
+[2025-06-15T02:49:03.712Z] [INFO] Event geladen: ready 
+[2025-06-15T02:49:04.195Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[2025-06-15T02:49:07.138Z] [INFO] Command geladen: craft 
+[2025-06-15T02:49:07.142Z] [INFO] Command geladen: list 
+[2025-06-15T02:49:07.143Z] [INFO] Command geladen: stats 
+[2025-06-15T02:49:07.148Z] [INFO] Event geladen: interactionCreate 
+[2025-06-15T02:49:07.149Z] [INFO] Event geladen: ready 
+[2025-06-15T02:49:07.635Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[2025-06-15T02:49:10.739Z] [INFO] Command geladen: craft 
+[2025-06-15T02:49:10.744Z] [INFO] Command geladen: list 
+[2025-06-15T02:49:10.746Z] [INFO] Command geladen: stats 
+[2025-06-15T02:49:10.748Z] [INFO] Event geladen: interactionCreate 
+[2025-06-15T02:49:10.750Z] [INFO] Event geladen: ready 
+[2025-06-15T02:49:11.263Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[2025-06-15T02:49:19.468Z] [INFO] Command geladen: craft 
+[2025-06-15T02:49:19.472Z] [INFO] Command geladen: list 
+[2025-06-15T02:49:19.474Z] [INFO] Command geladen: stats 
+[2025-06-15T02:49:19.476Z] [INFO] Event geladen: interactionCreate 
+[2025-06-15T02:49:19.478Z] [INFO] Event geladen: ready 
+[2025-06-15T02:49:19.959Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[2025-06-15T02:49:23.282Z] [INFO] Command geladen: craft 
+[2025-06-15T02:49:23.287Z] [INFO] Command geladen: list 
+[2025-06-15T02:49:23.290Z] [INFO] Command geladen: stats 
+[2025-06-15T02:49:23.292Z] [INFO] Event geladen: interactionCreate 
+[2025-06-15T02:49:23.293Z] [INFO] Event geladen: ready 
+[2025-06-15T02:49:23.769Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[2025-06-15T02:49:27.554Z] [INFO] Command geladen: craft 
+[2025-06-15T02:49:27.558Z] [INFO] Command geladen: list 
+[2025-06-15T02:49:27.560Z] [INFO] Command geladen: stats 
+[2025-06-15T02:49:27.563Z] [INFO] Event geladen: interactionCreate 
+[2025-06-15T02:49:27.564Z] [INFO] Event geladen: ready 
+[2025-06-15T02:49:28.046Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[2025-06-15T02:49:32.379Z] [INFO] Command geladen: craft 
+[2025-06-15T02:49:32.384Z] [INFO] Command geladen: list 
+[2025-06-15T02:49:32.386Z] [INFO] Command geladen: stats 
+[2025-06-15T02:49:32.388Z] [INFO] Event geladen: interactionCreate 
+[2025-06-15T02:49:32.389Z] [INFO] Event geladen: ready 
+[2025-06-15T02:49:32.870Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[2025-06-15T02:49:38.091Z] [INFO] Command geladen: craft 
+[2025-06-15T02:49:38.095Z] [INFO] Command geladen: list 
+[2025-06-15T02:49:38.097Z] [INFO] Command geladen: stats 
+[2025-06-15T02:49:38.100Z] [INFO] Event geladen: interactionCreate 
+[2025-06-15T02:49:38.101Z] [INFO] Event geladen: ready 
+[2025-06-15T02:49:38.611Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[2025-06-15T02:49:57.469Z] [INFO] Command geladen: craft 
+[2025-06-15T02:49:57.474Z] [INFO] Command geladen: list 
+[2025-06-15T02:49:57.476Z] [INFO] Command geladen: stats 
+[2025-06-15T02:49:57.479Z] [INFO] Event geladen: interactionCreate 
+[2025-06-15T02:49:57.480Z] [INFO] Event geladen: ready 
+[2025-06-15T02:49:57.979Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[2025-06-15T02:50:13.689Z] [INFO] Command geladen: craft 
+[2025-06-15T02:50:13.693Z] [INFO] Command geladen: list 
+[2025-06-15T02:50:13.694Z] [INFO] Command geladen: stats 
+[2025-06-15T02:50:13.696Z] [INFO] Event geladen: interactionCreate 
+[2025-06-15T02:50:13.697Z] [INFO] Event geladen: ready 
+[2025-06-15T02:50:14.191Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[2025-06-15T02:50:26.189Z] [INFO] Command geladen: craft 
+[2025-06-15T02:50:26.194Z] [INFO] Command geladen: list 
+[2025-06-15T02:50:26.196Z] [INFO] Command geladen: stats 
+[2025-06-15T02:50:26.198Z] [INFO] Event geladen: interactionCreate 
+[2025-06-15T02:50:26.199Z] [INFO] Event geladen: ready 
+[2025-06-15T02:50:26.718Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[2025-06-15T02:51:42.913Z] [INFO] Command geladen: craft 
+[2025-06-15T02:51:42.918Z] [INFO] Command geladen: list 
+[2025-06-15T02:51:42.920Z] [INFO] Command geladen: stats 
+[2025-06-15T02:51:42.921Z] [INFO] Event geladen: interactionCreate 
+[2025-06-15T02:51:42.922Z] [INFO] Event geladen: ready 
+[2025-06-15T02:51:43.408Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[2025-06-15T02:51:44.549Z] [SUCCESS] Bot ist online als Blackwater Assistant#4877 
+[2025-06-15T02:51:44.550Z] [INFO] Aktiv auf 1 Server(n) 
+[2025-06-15T02:51:44.550Z] [INFO] - Blackwater and Friends (1073317123516027031) - 24 Mitglieder 
+[2025-06-15T02:51:44.731Z] [SUCCESS] 3 Commands in Guild Blackwater and Friends registriert 
+[2025-06-15T02:52:39.003Z] [ERROR] Fehler beim Erstellen des Auftrags: {"message":"Unknown column 'erstellt_von' in 'field list'","stack":"Error: Unknown column 'erstellt_von' in 'field list'\n    at PromisePool.execute (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\mysql2\\lib\\promise\\pool.js:54:22)\n    at Database.createAuftrag (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\database.js:73:46)\n    at Object.execute (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\commands\\craft.js:59:46)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Client.<anonymous> (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\bot.js:65:9)"}
+[2025-06-15T02:52:39.004Z] [ERROR] Fehler beim Erstellen des Auftrags: {"message":"Unknown column 'erstellt_von' in 'field list'","stack":"Error: Unknown column 'erstellt_von' in 'field list'\n    at PromisePool.execute (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\mysql2\\lib\\promise\\pool.js:54:22)\n    at Database.createAuftrag (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\database.js:73:46)\n    at Object.execute (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\commands\\craft.js:59:46)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Client.<anonymous> (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\bot.js:65:9)"}
+[2025-06-15T02:57:44.608Z] [INFO] Command geladen: craft 
+[2025-06-15T02:57:44.613Z] [INFO] Command geladen: list 
+[2025-06-15T02:57:44.615Z] [INFO] Command geladen: stats 
+[2025-06-15T02:57:44.617Z] [INFO] Event geladen: interactionCreate 
+[2025-06-15T02:57:44.618Z] [INFO] Event geladen: ready 
+[2025-06-15T02:57:44.656Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[2025-06-15T02:57:45.340Z] [SUCCESS] Bot ist online als Blackwater Assistant#4877 
+[2025-06-15T02:57:45.341Z] [INFO] Aktiv auf 1 Server(n) 
+[2025-06-15T02:57:45.342Z] [INFO] - Blackwater and Friends (1073317123516027031) - 24 Mitglieder 
+[2025-06-15T02:57:45.493Z] [SUCCESS] 3 Commands in Guild Blackwater and Friends registriert 
+[2025-06-15T02:58:02.282Z] [ERROR] Fehler beim Erstellen des Auftrags: {"message":"Invalid Form Body\ncomponents[0].components[0].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji\ncomponents[0].components[1].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji\ncomponents[0].components[2].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji","stack":"DiscordAPIError[50035]: Invalid Form Body\ncomponents[0].components[0].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji\ncomponents[0].components[1].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji\ncomponents[0].components[2].emoji.name[BUTTON_COMPONENT_INVALID_EMOJI]: Invalid emoji\n    at handleErrors (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\@discordjs\\rest\\dist\\index.js:748:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async SequentialHandler.runRequest (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\@discordjs\\rest\\dist\\index.js:1149:23)\n    at async SequentialHandler.queueRequest (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\@discordjs\\rest\\dist\\index.js:980:14)\n    at async _REST.request (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\@discordjs\\rest\\dist\\index.js:1293:22)\n    at async InteractionWebhook.editMessage (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\discord.js\\src\\structures\\Webhook.js:351:15)\n    at async ChatInputCommandInteraction.editReply (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:248:17)\n    at async Object.execute (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\commands\\craft.js:104:13)\n    at async Client.<anonymous> (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\bot.js:65:9)"}
+[2025-06-15T02:59:07.024Z] [INFO] Command geladen: craft 
+[2025-06-15T02:59:07.034Z] [INFO] Command geladen: list 
+[2025-06-15T02:59:07.035Z] [INFO] Command geladen: stats 
+[2025-06-15T02:59:07.040Z] [INFO] Event geladen: interactionCreate 
+[2025-06-15T02:59:07.042Z] [INFO] Event geladen: ready 
+[2025-06-15T02:59:07.159Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[2025-06-15T02:59:07.987Z] [SUCCESS] Bot ist online als Blackwater Assistant#4877 
+[2025-06-15T02:59:07.988Z] [INFO] Aktiv auf 1 Server(n) 
+[2025-06-15T02:59:07.988Z] [INFO] - Blackwater and Friends (1073317123516027031) - 24 Mitglieder 
+[2025-06-15T02:59:08.213Z] [SUCCESS] 3 Commands in Guild Blackwater and Friends registriert 
+[2025-06-15T02:59:25.161Z] [SUCCESS] Webhook gesendet: ERSTELLT 
+[2025-06-15T02:59:25.162Z] [INFO] Auftrag #2 erstellt {"user":"marshmello0w","kunde":"test","gegenstand":"Pistole","menge":2}
+[2025-06-15T02:59:31.250Z] [SUCCESS] Webhook gesendet: FORTSCHRITT 
+[2025-06-15T02:59:31.250Z] [INFO] Auftrag #2 aktualisiert {"user":"marshmello0w","action":"increment","fortschritt":1}
+[2025-06-15T02:59:39.519Z] [SUCCESS] Webhook gesendet: FORTSCHRITT 
+[2025-06-15T02:59:39.521Z] [INFO] Auftrag #2 aktualisiert {"user":"marshmello0w","action":"increment","fortschritt":2}
+[2025-06-15T02:59:46.303Z] [SUCCESS] Webhook gesendet: ABGESCHLOSSEN 
+[2025-06-15T02:59:46.303Z] [INFO] Auftrag #2 aktualisiert {"user":"marshmello0w","action":"complete","fortschritt":2}
+[2025-06-15T03:01:10.042Z] [SUCCESS] Webhook gesendet: ABGEGEBEN 
+[2025-06-15T03:01:10.282Z] [INFO] Auftrag #2 gelöscht {"user":"marshmello0w"}
+[2025-06-15T03:03:50.230Z] [INFO] Command geladen: craft 
+[2025-06-15T03:03:50.234Z] [INFO] Command geladen: list 
+[2025-06-15T03:03:50.236Z] [INFO] Command geladen: stats 
+[2025-06-15T03:03:50.238Z] [INFO] Event geladen: interactionCreate 
+[2025-06-15T03:03:50.239Z] [INFO] Event geladen: ready 
+[2025-06-15T03:03:50.285Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[2025-06-15T03:03:51.160Z] [SUCCESS] Bot ist online als Blackwater Assistant#4877 
+[2025-06-15T03:03:51.161Z] [INFO] Aktiv auf 1 Server(n) 
+[2025-06-15T03:03:51.162Z] [INFO] - Blackwater and Friends (1073317123516027031) - 24 Mitglieder 
+[2025-06-15T03:03:51.345Z] [SUCCESS] 3 Commands in Guild Blackwater and Friends registriert 
+[2025-06-15T03:04:11.827Z] [SUCCESS] Webhook gesendet: ERSTELLT 
+[2025-06-15T03:04:11.827Z] [INFO] Auftrag #3 erstellt {"user":"marshmello0w","kunde":"test","gegenstand":"Pistole","menge":3}
+[2025-06-15T03:04:14.098Z] [SUCCESS] Webhook gesendet: FORTSCHRITT 
+[2025-06-15T03:04:14.099Z] [INFO] Auftrag #3 aktualisiert {"user":"marshmello0w","action":"increment","fortschritt":1}
+[2025-06-15T03:04:19.770Z] [SUCCESS] Webhook gesendet: FORTSCHRITT 
+[2025-06-15T03:04:19.771Z] [INFO] Auftrag #3 aktualisiert {"user":"marshmello0w","action":"increment","fortschritt":2}
+[2025-06-15T03:04:21.067Z] [SUCCESS] Webhook gesendet: ABGESCHLOSSEN 
+[2025-06-15T03:04:21.067Z] [INFO] Auftrag #3 aktualisiert {"user":"marshmello0w","action":"increment","fortschritt":3}
+[2025-06-15T03:04:44.291Z] [SUCCESS] Webhook gesendet: ABGEGEBEN 
+[2025-06-15T03:04:44.507Z] [INFO] Auftrag #3 gelöscht {"user":"marshmello0w"}
+[2025-06-15T03:10:58.804Z] [INFO] Command geladen: craft 
+[2025-06-15T03:10:58.808Z] [INFO] Command geladen: list 
+[2025-06-15T03:10:58.810Z] [INFO] Command geladen: stats 
+[2025-06-15T03:10:58.813Z] [INFO] Event geladen: interactionCreate 
+[2025-06-15T03:10:58.814Z] [INFO] Event geladen: ready 
+[2025-06-15T03:10:58.856Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[2025-06-15T03:10:59.525Z] [SUCCESS] Bot ist online als Blackwater Assistant#4877 
+[2025-06-15T03:10:59.526Z] [INFO] Aktiv auf 1 Server(n) 
+[2025-06-15T03:10:59.527Z] [INFO] - Blackwater and Friends (1073317123516027031) - 24 Mitglieder 
+[2025-06-15T03:10:59.737Z] [SUCCESS] 3 Commands in Guild Blackwater and Friends registriert 
+[2025-06-15T03:11:03.536Z] [INFO] Command geladen: craft 
+[2025-06-15T03:11:03.541Z] [INFO] Command geladen: list 
+[2025-06-15T03:11:03.543Z] [INFO] Command geladen: stats 
+[2025-06-15T03:11:03.545Z] [INFO] Event geladen: interactionCreate 
+[2025-06-15T03:11:03.546Z] [INFO] Event geladen: ready 
+[2025-06-15T03:11:03.601Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[2025-06-15T03:11:04.427Z] [SUCCESS] Bot ist online als Blackwater Assistant#4877 
+[2025-06-15T03:11:04.428Z] [INFO] Aktiv auf 1 Server(n) 
+[2025-06-15T03:11:04.429Z] [INFO] - Blackwater and Friends (1073317123516027031) - 24 Mitglieder 
+[2025-06-15T03:11:04.641Z] [SUCCESS] 3 Commands in Guild Blackwater and Friends registriert 
+[2025-06-15T03:11:20.427Z] [SUCCESS] Webhook gesendet: ERSTELLT an 1383644573812916284... 
+[2025-06-15T03:11:20.428Z] [INFO] Auftrag #4 erstellt {"user":"marshmello0w","kunde":"roberto","gegenstand":"Schutzweste","menge":5}
+[2025-06-15T03:11:35.221Z] [INFO] Auftragsliste abgerufen {"user":"marshmello0w","count":1}
+[2025-06-15T03:11:47.011Z] [INFO] Statistiken abgerufen {"user":"marshmello0w"}
+[2025-06-15T03:11:55.708Z] [SUCCESS] Webhook gesendet: FORTSCHRITT an 1383644615864881202... 
+[2025-06-15T03:11:55.708Z] [INFO] Auftrag #4 aktualisiert {"user":"marshmello0w","action":"increment","fortschritt":1}
+[2025-06-15T03:11:57.108Z] [SUCCESS] Webhook gesendet: FORTSCHRITT an 1383644615864881202... 
+[2025-06-15T03:11:57.108Z] [INFO] Auftrag #4 aktualisiert {"user":"marshmello0w","action":"increment","fortschritt":2}
+[2025-06-15T03:11:58.143Z] [INFO] Auftrag #4 aktualisiert {"user":"marshmello0w","action":"increment","fortschritt":3}
+[2025-06-15T03:11:58.143Z] [SUCCESS] Webhook gesendet: FORTSCHRITT an 1383644615864881202... 
+[2025-06-15T03:11:59.083Z] [SUCCESS] Webhook gesendet: FORTSCHRITT an 1383644615864881202... 
+[2025-06-15T03:11:59.083Z] [INFO] Auftrag #4 aktualisiert {"user":"marshmello0w","action":"increment","fortschritt":4}
+[2025-06-15T03:12:00.431Z] [SUCCESS] Webhook gesendet: ABGESCHLOSSEN an 1383644656834973736... 
+[2025-06-15T03:12:00.432Z] [INFO] Auftrag #4 aktualisiert {"user":"marshmello0w","action":"increment","fortschritt":5}
+[2025-06-15T03:12:19.153Z] [SUCCESS] Webhook gesendet: ABGEGEBEN an 1383644692784087110... 
+[2025-06-15T03:12:19.372Z] [INFO] Auftrag #4 gelöscht {"user":"marshmello0w"}
+[2025-06-15T03:13:16.659Z] [INFO] Command geladen: craft 
+[2025-06-15T03:13:16.665Z] [INFO] Command geladen: list 
+[2025-06-15T03:13:16.666Z] [INFO] Command geladen: stats 
+[2025-06-15T03:13:16.668Z] [INFO] Event geladen: interactionCreate 
+[2025-06-15T03:13:16.669Z] [INFO] Event geladen: ready 
+[2025-06-15T03:13:16.703Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[2025-06-15T03:13:17.491Z] [SUCCESS] Bot ist online als Blackwater Assistant#4877 
+[2025-06-15T03:13:17.492Z] [INFO] Aktiv auf 1 Server(n) 
+[2025-06-15T03:13:17.493Z] [INFO] - Blackwater and Friends (1073317123516027031) - 24 Mitglieder 
+[2025-06-15T03:13:17.753Z] [SUCCESS] 3 Commands in Guild Blackwater and Friends registriert 
+[2025-06-15T03:13:25.740Z] [INFO] Statistiken abgerufen {"user":"marshmello0w"}
+[2025-06-15T03:22:56.279Z] [INFO] Command geladen: craft 
+[2025-06-15T03:22:56.284Z] [INFO] Command geladen: history 
+[2025-06-15T03:22:56.285Z] [INFO] Command geladen: list 
+[2025-06-15T03:22:56.287Z] [INFO] Command geladen: restore 
+[2025-06-15T03:22:56.288Z] [INFO] Command geladen: stats 
+[2025-06-15T03:22:56.290Z] [INFO] Event geladen: interactionCreate 
+[2025-06-15T03:22:56.291Z] [INFO] Event geladen: ready 
+[2025-06-15T03:22:56.328Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[2025-06-15T03:22:57.209Z] [SUCCESS] Bot ist online als Blackwater Assistant#4877 
+[2025-06-15T03:22:57.211Z] [INFO] - Blackwater and Friends (1073317123516027031) - 24 Mitglieder 
+[2025-06-15T03:22:57.210Z] [INFO] Aktiv auf 1 Server(n) 
+[2025-06-15T03:22:57.421Z] [SUCCESS] 5 Commands in Guild Blackwater and Friends registriert 
+[2025-06-15T03:23:25.710Z] [SUCCESS] Webhook gesendet: ERSTELLT an 1383644573812916284... 
+[2025-06-15T03:23:25.710Z] [INFO] Auftrag #5 erstellt {"user":"marshmello0w","kunde":"test","gegenstand":"Schutzweste","menge":5}
+[2025-06-15T03:23:30.399Z] [SUCCESS] Webhook gesendet: ABGESCHLOSSEN an 1383644656834973736... 
+[2025-06-15T03:23:30.399Z] [INFO] Auftrag #5 aktualisiert {"user":"marshmello0w","action":"complete","fortschritt":5}
+[2025-06-15T03:23:34.463Z] [SUCCESS] Webhook gesendet: ABGEGEBEN an 1383644692784087110... 
+[2025-06-15T03:23:34.691Z] [INFO] Auftrag #5 gelöscht {"user":"marshmello0w"}
+[2025-06-15T03:24:13.679Z] [INFO] Command geladen: craft 
+[2025-06-15T03:24:13.685Z] [INFO] Command geladen: history 
+[2025-06-15T03:24:13.687Z] [INFO] Command geladen: list 
+[2025-06-15T03:24:13.689Z] [INFO] Command geladen: restore 
+[2025-06-15T03:24:13.690Z] [INFO] Command geladen: stats 
+[2025-06-15T03:24:13.693Z] [INFO] Event geladen: interactionCreate 
+[2025-06-15T03:24:13.694Z] [INFO] Event geladen: ready 
+[2025-06-15T03:24:13.738Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[2025-06-15T03:24:14.462Z] [SUCCESS] Bot ist online als Blackwater Assistant#4877 
+[2025-06-15T03:24:14.463Z] [INFO] Aktiv auf 1 Server(n) 
+[2025-06-15T03:24:14.464Z] [INFO] - Blackwater and Friends (1073317123516027031) - 24 Mitglieder 
+[2025-06-15T03:24:14.628Z] [SUCCESS] 5 Commands in Guild Blackwater and Friends registriert 
+[2025-06-15T03:24:32.835Z] [INFO] Erweiterte Statistiken abgerufen {"user":"marshmello0w"}
+[2025-06-15T03:24:53.188Z] [SUCCESS] Webhook gesendet: ERSTELLT an 1383644573812916284... 
+[2025-06-15T03:24:53.188Z] [INFO] Auftrag #6 erstellt {"user":"marshmello0w","kunde":"test","gegenstand":"Schutzweste","menge":5}
+[2025-06-15T03:25:00.965Z] [SUCCESS] Webhook gesendet: ABGESCHLOSSEN an 1383644656834973736... 
+[2025-06-15T03:25:00.965Z] [INFO] Auftrag #6 aktualisiert {"user":"marshmello0w","action":"complete","fortschritt":5}
+[2025-06-15T03:25:04.735Z] [SUCCESS] Webhook gesendet: ABGEGEBEN an 1383644692784087110... 
+[2025-06-15T03:25:05.058Z] [INFO] Auftrag #6 gelöscht {"user":"marshmello0w"}
+[2025-06-15T03:27:15.859Z] [INFO] Command geladen: craft 
+[2025-06-15T03:27:15.863Z] [INFO] Command geladen: history 
+[2025-06-15T03:27:15.865Z] [INFO] Command geladen: list 
+[2025-06-15T03:27:15.867Z] [INFO] Command geladen: restore 
+[2025-06-15T03:27:15.868Z] [INFO] Command geladen: stats 
+[2025-06-15T03:27:15.870Z] [INFO] Event geladen: interactionCreate 
+[2025-06-15T03:27:15.871Z] [INFO] Event geladen: ready 
+[2025-06-15T03:27:15.909Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[2025-06-15T03:27:16.612Z] [SUCCESS] Bot ist online als Blackwater Assistant#4877 
+[2025-06-15T03:27:16.613Z] [INFO] Aktiv auf 1 Server(n) 
+[2025-06-15T03:27:16.614Z] [INFO] - Blackwater and Friends (1073317123516027031) - 24 Mitglieder 
+[2025-06-15T03:27:16.787Z] [SUCCESS] 5 Commands in Guild Blackwater and Friends registriert 
+[2025-06-15T03:27:29.634Z] [ERROR] Fehler beim AusfÃ¼hren von craft: {"message":"Unknown interaction","stack":"DiscordAPIError[10062]: Unknown interaction\n    at handleErrors (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\@discordjs\\rest\\dist\\index.js:748:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async BurstHandler.runRequest (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\@discordjs\\rest\\dist\\index.js:852:23)\n    at async _REST.request (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\@discordjs\\rest\\dist\\index.js:1293:22)\n    at async ChatInputCommandInteraction.deferReply (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:123:22)\n    at async Object.execute (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\commands\\craft.js:50:9)\n    at async Client.<anonymous> (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\bot.js:65:9)"}
+[2025-06-15T03:27:29.794Z] [ERROR] Fehler beim Senden der Fehlermeldung: {"message":"Interaction has already been acknowledged.","stack":"DiscordAPIError[40060]: Interaction has already been acknowledged.\n    at handleErrors (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\@discordjs\\rest\\dist\\index.js:748:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async BurstHandler.runRequest (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\@discordjs\\rest\\dist\\index.js:852:23)\n    at async _REST.request (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\@discordjs\\rest\\dist\\index.js:1293:22)\n    at async ChatInputCommandInteraction.reply (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:194:22)\n    at async Client.<anonymous> (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\bot.js:78:17)"}
+[2025-06-15T03:27:30.321Z] [SUCCESS] Webhook gesendet: ERSTELLT an 1383644573812916284... 
+[2025-06-15T03:27:30.321Z] [INFO] Auftrag #7 erstellt {"user":"marshmello0w","kunde":"test","gegenstand":"Rifle Erweitertes Magazine","menge":5}
+[2025-06-15T03:31:44.531Z] [INFO] Command geladen: craft 
+[2025-06-15T03:31:44.536Z] [INFO] Command geladen: history 
+[2025-06-15T03:31:44.538Z] [INFO] Command geladen: list 
+[2025-06-15T03:31:44.547Z] [INFO] Command geladen: restore 
+[2025-06-15T03:31:44.548Z] [INFO] Command geladen: stats 
+[2025-06-15T03:31:44.549Z] [INFO] Event geladen: interactionCreate 
+[2025-06-15T03:31:44.551Z] [INFO] Event geladen: ready 
+[2025-06-15T03:31:44.584Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[2025-06-15T03:31:45.298Z] [SUCCESS] Bot ist online als Blackwater Assistant#4877 
+[2025-06-15T03:31:45.300Z] [INFO] - Blackwater and Friends (1073317123516027031) - 24 Mitglieder 
+[2025-06-15T03:31:45.300Z] [INFO] Aktiv auf 1 Server(n) 
+[2025-06-15T03:31:45.475Z] [SUCCESS] 5 Commands in Guild Blackwater and Friends registriert 
+[2025-06-15T03:31:48.228Z] [INFO] Füge Historie hinzu: Auftrag 7, Aktion: ABGESCHLOSSEN, Benutzer: marshmello0w 
+[2025-06-15T03:31:48.231Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 28 
+[2025-06-15T03:31:49.226Z] [SUCCESS] Webhook gesendet: ABGESCHLOSSEN an 1383644656834973736... 
+[2025-06-15T03:31:49.226Z] [INFO] Auftrag #7 aktualisiert {"user":"marshmello0w","action":"complete","fortschritt":5}
+[2025-06-15T03:31:51.758Z] [INFO] Füge Historie hinzu: Auftrag 7, Aktion: ABGEGEBEN, Benutzer: marshmello0w 
+[2025-06-15T03:31:51.761Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 29 
+[2025-06-15T03:31:52.019Z] [SUCCESS] Webhook gesendet: ABGEGEBEN an 1383644692784087110... 
+[2025-06-15T03:31:52.236Z] [INFO] Auftrag #7 gelöscht {"user":"marshmello0w"}
+[2025-06-15T03:32:08.025Z] [INFO] Füge Historie hinzu: Auftrag 8, Aktion: ERSTELLT, Benutzer: marshmello0w#0 
+[2025-06-15T03:32:08.028Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 30 
+[2025-06-15T03:32:08.923Z] [SUCCESS] Webhook gesendet: ERSTELLT an 1383644573812916284... 
+[2025-06-15T03:32:08.923Z] [INFO] Auftrag #8 erstellt {"user":"marshmello0w","kunde":"test","gegenstand":"Schutzweste","menge":5}
+[2025-06-15T03:32:09.493Z] [INFO] Füge Historie hinzu: Auftrag 8, Aktion: ABGESCHLOSSEN, Benutzer: marshmello0w 
+[2025-06-15T03:32:09.494Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 31 
+[2025-06-15T03:32:09.966Z] [SUCCESS] Webhook gesendet: ABGESCHLOSSEN an 1383644656834973736... 
+[2025-06-15T03:32:09.966Z] [INFO] Auftrag #8 aktualisiert {"user":"marshmello0w","action":"complete","fortschritt":5}
+[2025-06-15T03:32:10.720Z] [INFO] Füge Historie hinzu: Auftrag 8, Aktion: ABGEGEBEN, Benutzer: marshmello0w 
+[2025-06-15T03:32:10.722Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 32 
+[2025-06-15T03:32:10.951Z] [SUCCESS] Webhook gesendet: ABGEGEBEN an 1383644692784087110... 
+[2025-06-15T03:32:11.224Z] [INFO] Auftrag #8 gelöscht {"user":"marshmello0w"}
+[2025-06-15T03:35:37.507Z] [INFO] Command geladen: craft 
+[2025-06-15T03:35:37.513Z] [INFO] Command geladen: history 
+[2025-06-15T03:35:37.514Z] [INFO] Command geladen: list 
+[2025-06-15T03:35:37.516Z] [INFO] Command geladen: restore 
+[2025-06-15T03:35:37.517Z] [INFO] Command geladen: stats 
+[2025-06-15T03:35:37.519Z] [INFO] Event geladen: interactionCreate 
+[2025-06-15T03:35:37.520Z] [INFO] Event geladen: ready 
+[2025-06-15T03:35:37.560Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[2025-06-15T03:35:38.316Z] [SUCCESS] Bot ist online als Blackwater Assistant#4877 
+[2025-06-15T03:35:38.318Z] [INFO] Aktiv auf 1 Server(n) 
+[2025-06-15T03:35:38.319Z] [INFO] - Blackwater and Friends (1073317123516027031) - 24 Mitglieder 
+[2025-06-15T03:35:38.565Z] [SUCCESS] 5 Commands in Guild Blackwater and Friends registriert 
+[2025-06-15T03:35:46.444Z] [INFO] Füge Historie hinzu: Auftrag 9, Aktion: ERSTELLT, Benutzer: marshmello0w#0 
+[2025-06-15T03:35:46.449Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 33 
+[2025-06-15T03:35:46.979Z] [SUCCESS] Webhook gesendet: ERSTELLT an 1383644573812916284... 
+[2025-06-15T03:35:46.980Z] [INFO] Auftrag #9 erstellt {"user":"marshmello0w","kunde":"test","gegenstand":"Schalldämpfer","menge":5}
+[2025-06-15T03:35:57.694Z] [INFO] Füge Historie hinzu: Auftrag 9, Aktion: ABGESCHLOSSEN, Benutzer: marshmello0w 
+[2025-06-15T03:35:57.696Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 34 
+[2025-06-15T03:35:58.217Z] [SUCCESS] Webhook gesendet: ABGESCHLOSSEN an 1383644656834973736... 
+[2025-06-15T03:35:58.217Z] [INFO] Auftrag #9 aktualisiert {"user":"marshmello0w","action":"complete","fortschritt":5}
+[2025-06-15T03:36:02.976Z] [INFO] Füge Historie hinzu: Auftrag 9, Aktion: ABGEGEBEN, Benutzer: marshmello0w 
+[2025-06-15T03:36:02.979Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 35 
+[2025-06-15T03:36:03.218Z] [SUCCESS] Webhook gesendet: ABGEGEBEN an 1383644692784087110... 
+[2025-06-15T03:36:03.451Z] [INFO] Auftrag #9 gelöscht {"user":"marshmello0w"}
+[2025-06-15T03:36:17.090Z] [INFO] Füge Historie hinzu: Auftrag 10, Aktion: ERSTELLT, Benutzer: marshmello0w#0 
+[2025-06-15T03:36:17.092Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 36 
+[2025-06-15T03:36:17.618Z] [SUCCESS] Webhook gesendet: ERSTELLT an 1383644573812916284... 
+[2025-06-15T03:36:17.618Z] [INFO] Auftrag #10 erstellt {"user":"marshmello0w","kunde":"test","gegenstand":"Schalldämpfer","menge":5}
+[2025-06-15T03:36:31.064Z] [INFO] Füge Historie hinzu: Auftrag 10, Aktion: ABGESCHLOSSEN, Benutzer: marshmello0w 
+[2025-06-15T03:36:31.066Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 37 
+[2025-06-15T03:36:31.625Z] [SUCCESS] Webhook gesendet: ABGESCHLOSSEN an 1383644656834973736... 
+[2025-06-15T03:36:31.626Z] [INFO] Auftrag #10 aktualisiert {"user":"marshmello0w","action":"complete","fortschritt":5}
+[2025-06-15T03:36:37.087Z] [INFO] Füge Historie hinzu: Auftrag 10, Aktion: ABGEGEBEN, Benutzer: marshmello0w 
+[2025-06-15T03:36:37.089Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 38 
+[2025-06-15T03:36:37.439Z] [SUCCESS] Webhook gesendet: ABGEGEBEN an 1383644692784087110... 
+[2025-06-15T03:36:37.693Z] [INFO] Auftrag #10 gelöscht {"user":"marshmello0w"}
+[2025-06-15T03:39:04.428Z] [INFO] Füge Historie hinzu: Auftrag 11, Aktion: ERSTELLT, Benutzer: marshmello0w#0 
+[2025-06-15T03:39:04.431Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 39 
+[2025-06-15T03:39:05.183Z] [SUCCESS] Webhook gesendet: ERSTELLT an 1383644573812916284... 
+[2025-06-15T03:39:05.185Z] [INFO] Auftrag #11 erstellt {"user":"marshmello0w","kunde":"test","gegenstand":"Schutzweste","menge":5}
+[2025-06-15T03:39:13.011Z] [INFO] Füge Historie hinzu: Auftrag 11, Aktion: ABGESCHLOSSEN, Benutzer: marshmello0w 
+[2025-06-15T03:39:13.013Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 40 
+[2025-06-15T03:39:13.727Z] [SUCCESS] Webhook gesendet: ABGESCHLOSSEN an 1383644656834973736... 
+[2025-06-15T03:39:13.728Z] [INFO] Auftrag #11 aktualisiert {"user":"marshmello0w","action":"complete","fortschritt":5}
+[2025-06-15T03:39:14.395Z] [INFO] Füge Historie hinzu: Auftrag 11, Aktion: ABGEGEBEN, Benutzer: marshmello0w 
+[2025-06-15T03:39:14.398Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 41 
+[2025-06-15T03:39:14.769Z] [SUCCESS] Webhook gesendet: ABGEGEBEN an 1383644692784087110... 
+[2025-06-15T03:39:15.044Z] [INFO] Auftrag #11 gelöscht {"user":"marshmello0w"}
+[2025-06-15T03:39:28.411Z] [INFO] Command geladen: craft 
+[2025-06-15T03:39:28.415Z] [INFO] Command geladen: history 
+[2025-06-15T03:39:28.417Z] [INFO] Command geladen: list 
+[2025-06-15T03:39:28.418Z] [INFO] Command geladen: restore 
+[2025-06-15T03:39:28.420Z] [INFO] Command geladen: stats 
+[2025-06-15T03:39:28.421Z] [INFO] Event geladen: interactionCreate 
+[2025-06-15T03:39:28.422Z] [INFO] Event geladen: ready 
+[2025-06-15T03:39:28.467Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[2025-06-15T03:39:29.215Z] [SUCCESS] Bot ist online als Blackwater Assistant#4877 
+[2025-06-15T03:39:29.216Z] [INFO] Aktiv auf 1 Server(n) 
+[2025-06-15T03:39:29.217Z] [INFO] - Blackwater and Friends (1073317123516027031) - 24 Mitglieder 
+[2025-06-15T03:39:29.378Z] [SUCCESS] 5 Commands in Guild Blackwater and Friends registriert 
+[2025-06-15T03:39:52.593Z] [INFO] Aufträge wiederhergestellt {"user":"marshmello0w","wiederhergestellt":0,"fehler":0}
+[2025-06-15T03:42:58.319Z] [INFO] Command geladen: craft 
+[2025-06-15T03:42:58.323Z] [INFO] Command geladen: history 
+[2025-06-15T03:42:58.325Z] [INFO] Command geladen: list 
+[2025-06-15T03:42:58.327Z] [INFO] Command geladen: restore 
+[2025-06-15T03:42:58.328Z] [INFO] Command geladen: stats 
+[2025-06-15T03:42:58.331Z] [INFO] Event geladen: ready 
+[2025-06-15T03:42:58.330Z] [INFO] Event geladen: interactionCreate 
+[2025-06-15T03:42:58.373Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[2025-06-15T03:42:59.025Z] [SUCCESS] Bot ist online als Blackwater Assistant#4877 
+[2025-06-15T03:42:59.028Z] [INFO] Aktiv auf 1 Server(n) 
+[2025-06-15T03:42:59.029Z] [INFO] - Blackwater and Friends (1073317123516027031) - 24 Mitglieder 
+[2025-06-15T03:42:59.220Z] [SUCCESS] 5 Commands in Guild Blackwater and Friends registriert 
+[2025-06-15T03:43:05.974Z] [INFO] Historie für Auftrag #11 abgerufen {"user":"marshmello0w","auftragExistiert":false}
+[2025-06-15T03:48:50.415Z] [INFO] Command geladen: craft 
+[2025-06-15T03:48:50.421Z] [INFO] Command geladen: history 
+[2025-06-15T03:48:50.423Z] [INFO] Command geladen: list 
+[2025-06-15T03:48:50.424Z] [INFO] Command geladen: restore 
+[2025-06-15T03:48:50.426Z] [INFO] Command geladen: stats 
+[2025-06-15T03:48:50.427Z] [INFO] Event geladen: interactionCreate 
+[2025-06-15T03:48:50.428Z] [INFO] Event geladen: ready 
+[2025-06-15T03:48:50.467Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[2025-06-15T03:48:51.176Z] [SUCCESS] Bot ist online als Blackwater Assistant#4877 
+[2025-06-15T03:48:51.178Z] [INFO] - Blackwater and Friends (1073317123516027031) - 24 Mitglieder 
+[2025-06-15T03:48:51.177Z] [INFO] Aktiv auf 1 Server(n) 
+[2025-06-15T03:48:51.359Z] [SUCCESS] 5 Commands in Guild Blackwater and Friends registriert 
+[2025-06-15T03:49:02.162Z] [INFO] Füge Historie hinzu: Auftrag 12, Aktion: ERSTELLT, Benutzer: marshmello0w#0 
+[2025-06-15T03:49:02.165Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 42 
+[2025-06-15T03:49:02.879Z] [SUCCESS] Webhook gesendet: ERSTELLT an 1383644573812916284... 
+[2025-06-15T03:49:02.880Z] [INFO] Auftrag #12 erstellt {"user":"marshmello0w","kunde":"test","gegenstand":"Rifle Trommel Magazine","menge":10}
+[2025-06-15T03:49:05.468Z] [INFO] Füge Historie hinzu: Auftrag 12, Aktion: FORTSCHRITT, Benutzer: marshmello0w 
+[2025-06-15T03:49:05.470Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 43 
+[2025-06-15T03:49:05.940Z] [SUCCESS] Webhook gesendet: FORTSCHRITT an 1383644615864881202... 
+[2025-06-15T03:49:05.941Z] [INFO] Auftrag #12 aktualisiert {"user":"marshmello0w","action":"increment","fortschritt":1}
+[2025-06-15T03:49:06.825Z] [INFO] Füge Historie hinzu: Auftrag 12, Aktion: FORTSCHRITT, Benutzer: marshmello0w 
+[2025-06-15T03:49:06.827Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 44 
+[2025-06-15T03:49:07.369Z] [SUCCESS] Webhook gesendet: FORTSCHRITT an 1383644615864881202... 
+[2025-06-15T03:49:07.369Z] [INFO] Auftrag #12 aktualisiert {"user":"marshmello0w","action":"increment","fortschritt":2}
+[2025-06-15T03:49:08.383Z] [INFO] Füge Historie hinzu: Auftrag 12, Aktion: FORTSCHRITT, Benutzer: marshmello0w 
+[2025-06-15T03:49:08.385Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 45 
+[2025-06-15T03:49:08.963Z] [SUCCESS] Webhook gesendet: FORTSCHRITT an 1383644615864881202... 
+[2025-06-15T03:49:08.963Z] [INFO] Auftrag #12 aktualisiert {"user":"marshmello0w","action":"increment","fortschritt":3}
+[2025-06-15T03:49:53.672Z] [INFO] Füge Historie hinzu: Auftrag 12, Aktion: ABGESCHLOSSEN, Benutzer: marshmello0w 
+[2025-06-15T03:49:53.674Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 46 
+[2025-06-15T03:49:54.402Z] [SUCCESS] Webhook gesendet: ABGESCHLOSSEN an 1383644656834973736... 
+[2025-06-15T03:49:54.402Z] [INFO] Auftrag #12 aktualisiert {"user":"marshmello0w","action":"complete","fortschritt":10}
+[2025-06-15T03:49:55.455Z] [INFO] Füge Historie hinzu: Auftrag 12, Aktion: ABGEGEBEN, Benutzer: marshmello0w 
+[2025-06-15T03:49:55.458Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 47 
+[2025-06-15T03:49:55.715Z] [SUCCESS] Webhook gesendet: ABGEGEBEN an 1383644692784087110... 
+[2025-06-15T03:49:55.968Z] [INFO] Auftrag #12 gelöscht {"user":"marshmello0w"}
+[2025-06-15T03:51:13.132Z] [INFO] Historie für Auftrag #12 abgerufen {"user":"marshmello0w","auftragExistiert":false}
+[2025-06-15T03:51:36.799Z] [INFO] Füge Historie hinzu: Auftrag 13, Aktion: ERSTELLT, Benutzer: marshmello0w#0 
+[2025-06-15T03:51:36.801Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 48 
+[2025-06-15T03:51:37.484Z] [SUCCESS] Webhook gesendet: ERSTELLT an 1383644573812916284... 
+[2025-06-15T03:51:37.486Z] [INFO] Auftrag #13 erstellt {"user":"marshmello0w","kunde":"test2","gegenstand":"50er Pistole","menge":20}
+[2025-06-15T03:51:38.081Z] [INFO] Füge Historie hinzu: Auftrag 13, Aktion: FORTSCHRITT, Benutzer: marshmello0w 
+[2025-06-15T03:51:38.083Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 49 
+[2025-06-15T03:51:38.585Z] [SUCCESS] Webhook gesendet: FORTSCHRITT an 1383644615864881202... 
+[2025-06-15T03:51:38.586Z] [INFO] Auftrag #13 aktualisiert {"user":"marshmello0w","action":"increment","fortschritt":1}
+[2025-06-15T03:51:39.068Z] [INFO] Füge Historie hinzu: Auftrag 13, Aktion: FORTSCHRITT, Benutzer: marshmello0w 
+[2025-06-15T03:51:39.069Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 50 
+[2025-06-15T03:51:39.623Z] [SUCCESS] Webhook gesendet: FORTSCHRITT an 1383644615864881202... 
+[2025-06-15T03:51:39.623Z] [INFO] Auftrag #13 aktualisiert {"user":"marshmello0w","action":"increment","fortschritt":2}
+[2025-06-15T03:51:39.977Z] [INFO] Füge Historie hinzu: Auftrag 13, Aktion: FORTSCHRITT, Benutzer: marshmello0w 
+[2025-06-15T03:51:39.979Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 51 
+[2025-06-15T03:51:40.487Z] [SUCCESS] Webhook gesendet: FORTSCHRITT an 1383644615864881202... 
+[2025-06-15T03:51:40.487Z] [INFO] Auftrag #13 aktualisiert {"user":"marshmello0w","action":"increment","fortschritt":3}
+[2025-06-15T03:51:40.906Z] [INFO] Füge Historie hinzu: Auftrag 13, Aktion: FORTSCHRITT, Benutzer: marshmello0w 
+[2025-06-15T03:51:40.908Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 52 
+[2025-06-15T03:51:41.536Z] [SUCCESS] Webhook gesendet: FORTSCHRITT an 1383644615864881202... 
+[2025-06-15T03:51:41.536Z] [INFO] Auftrag #13 aktualisiert {"user":"marshmello0w","action":"increment","fortschritt":4}
+[2025-06-15T03:51:41.792Z] [INFO] Füge Historie hinzu: Auftrag 13, Aktion: FORTSCHRITT, Benutzer: marshmello0w 
+[2025-06-15T03:51:41.793Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 53 
+[2025-06-15T03:51:42.243Z] [SUCCESS] Webhook gesendet: FORTSCHRITT an 1383644615864881202... 
+[2025-06-15T03:51:42.243Z] [INFO] Auftrag #13 aktualisiert {"user":"marshmello0w","action":"decrement","fortschritt":3}
+[2025-06-15T03:51:42.668Z] [INFO] Füge Historie hinzu: Auftrag 13, Aktion: FORTSCHRITT, Benutzer: marshmello0w 
+[2025-06-15T03:51:42.670Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 54 
+[2025-06-15T03:51:43.250Z] [SUCCESS] Webhook gesendet: FORTSCHRITT an 1383644615864881202... 
+[2025-06-15T03:51:43.251Z] [INFO] Auftrag #13 aktualisiert {"user":"marshmello0w","action":"decrement","fortschritt":2}
+[2025-06-15T03:51:43.579Z] [INFO] Füge Historie hinzu: Auftrag 13, Aktion: FORTSCHRITT, Benutzer: marshmello0w 
+[2025-06-15T03:51:43.581Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 55 
+[2025-06-15T03:51:44.258Z] [SUCCESS] Webhook gesendet: FORTSCHRITT an 1383644615864881202... 
+[2025-06-15T03:51:44.258Z] [INFO] Auftrag #13 aktualisiert {"user":"marshmello0w","action":"decrement","fortschritt":1}
+[2025-06-15T03:51:44.530Z] [INFO] Füge Historie hinzu: Auftrag 13, Aktion: FORTSCHRITT, Benutzer: marshmello0w 
+[2025-06-15T03:51:44.533Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 56 
+[2025-06-15T03:51:45.120Z] [SUCCESS] Webhook gesendet: FORTSCHRITT an 1383644615864881202... 
+[2025-06-15T03:51:45.120Z] [INFO] Auftrag #13 aktualisiert {"user":"marshmello0w","action":"increment","fortschritt":2}
+[2025-06-15T03:51:45.444Z] [INFO] Füge Historie hinzu: Auftrag 13, Aktion: FORTSCHRITT, Benutzer: marshmello0w 
+[2025-06-15T03:51:45.446Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 57 
+[2025-06-15T03:51:45.961Z] [SUCCESS] Webhook gesendet: FORTSCHRITT an 1383644615864881202... 
+[2025-06-15T03:51:45.962Z] [INFO] Auftrag #13 aktualisiert {"user":"marshmello0w","action":"increment","fortschritt":3}
+[2025-06-15T03:51:46.295Z] [INFO] Füge Historie hinzu: Auftrag 13, Aktion: ABGESCHLOSSEN, Benutzer: marshmello0w 
+[2025-06-15T03:51:46.298Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 58 
+[2025-06-15T03:51:47.053Z] [SUCCESS] Webhook gesendet: ABGESCHLOSSEN an 1383644656834973736... 
+[2025-06-15T03:51:47.053Z] [INFO] Auftrag #13 aktualisiert {"user":"marshmello0w","action":"complete","fortschritt":20}
+[2025-06-15T03:51:48.085Z] [INFO] Füge Historie hinzu: Auftrag 13, Aktion: ABGEGEBEN, Benutzer: marshmello0w 
+[2025-06-15T03:51:48.088Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 59 
+[2025-06-15T03:51:48.365Z] [SUCCESS] Webhook gesendet: ABGEGEBEN an 1383644692784087110... 
+[2025-06-15T03:51:48.590Z] [INFO] Auftrag #13 gelöscht {"user":"marshmello0w"}
+[2025-06-15T03:51:58.818Z] [INFO] Historie für Auftrag #13 abgerufen {"user":"marshmello0w","auftragExistiert":false}
+[2025-06-15T03:53:16.821Z] [ERROR] Fehler beim Abrufen der Statistiken: {"message":"database.getDetailedUserStatistics is not a function","stack":"TypeError: database.getDetailedUserStatistics is not a function\n    at Object.execute (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\commands\\stats.js:15:46)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Client.<anonymous> (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\bot.js:63:9)"}
+[2025-06-15T03:58:30.123Z] [INFO] Command geladen: craft 
+[2025-06-15T03:58:30.128Z] [INFO] Command geladen: history 
+[2025-06-15T03:58:30.129Z] [INFO] Command geladen: list 
+[2025-06-15T03:58:30.131Z] [INFO] Command geladen: restore 
+[2025-06-15T03:58:30.132Z] [INFO] Command geladen: stats 
+[2025-06-15T03:58:30.134Z] [INFO] Event geladen: interactionCreate 
+[2025-06-15T03:58:30.134Z] [INFO] Event geladen: ready 
+[2025-06-15T03:58:30.171Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[2025-06-15T03:58:30.870Z] [SUCCESS] Bot ist online als Blackwater Assistant#4877 
+[2025-06-15T03:58:30.872Z] [INFO] Aktiv auf 1 Server(n) 
+[2025-06-15T03:58:30.872Z] [INFO] - Blackwater and Friends (1073317123516027031) - 24 Mitglieder 
+[2025-06-15T03:58:31.155Z] [SUCCESS] 5 Commands in Guild Blackwater and Friends registriert 
+[2025-06-15T03:58:40.625Z] [INFO] Historie für Auftrag #13 abgerufen {"user":"marshmello0w","auftragExistiert":false}
+[2025-06-15T03:58:45.636Z] [INFO] Erweiterte Statistiken abgerufen {"user":"marshmello0w"}
+[2025-06-15T03:59:19.205Z] [INFO] Erweiterte Statistiken abgerufen {"user":"marshmello0w"}
+[2025-06-15T03:59:35.972Z] [INFO] Historie für Auftrag #13 abgerufen {"user":"marshmello0w","auftragExistiert":false}
+[2025-06-15T03:59:56.503Z] [INFO] Füge Historie hinzu: Auftrag 14, Aktion: ERSTELLT, Benutzer: marshmello0w#0 
+[2025-06-15T03:59:56.505Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 60 
+[2025-06-15T03:59:57.515Z] [SUCCESS] Webhook gesendet: ERSTELLT an 1383644573812916284... 
+[2025-06-15T03:59:57.515Z] [INFO] Auftrag #14 erstellt {"user":"marshmello0w","kunde":"test","gegenstand":"SMG Scope","menge":20}
+[2025-06-15T03:59:58.335Z] [INFO] Füge Historie hinzu: Auftrag 14, Aktion: FORTSCHRITT, Benutzer: marshmello0w 
+[2025-06-15T03:59:58.337Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 61 
+[2025-06-15T03:59:59.117Z] [SUCCESS] Webhook gesendet: FORTSCHRITT an 1383644615864881202... 
+[2025-06-15T03:59:59.117Z] [INFO] Auftrag #14 aktualisiert {"user":"marshmello0w","action":"increment","fortschritt":1}
+[2025-06-15T03:59:59.786Z] [INFO] Füge Historie hinzu: Auftrag 14, Aktion: FORTSCHRITT, Benutzer: marshmello0w 
+[2025-06-15T03:59:59.788Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 62 
+[2025-06-15T04:00:00.515Z] [SUCCESS] Webhook gesendet: FORTSCHRITT an 1383644615864881202... 
+[2025-06-15T04:00:00.515Z] [INFO] Auftrag #14 aktualisiert {"user":"marshmello0w","action":"increment","fortschritt":2}
+[2025-06-15T04:00:00.591Z] [INFO] Füge Historie hinzu: Auftrag 14, Aktion: FORTSCHRITT, Benutzer: marshmello0w 
+[2025-06-15T04:00:00.593Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 63 
+[2025-06-15T04:00:01.083Z] [SUCCESS] Webhook gesendet: FORTSCHRITT an 1383644615864881202... 
+[2025-06-15T04:00:01.084Z] [INFO] Auftrag #14 aktualisiert {"user":"marshmello0w","action":"increment","fortschritt":3}
+[2025-06-15T04:00:01.595Z] [INFO] Füge Historie hinzu: Auftrag 14, Aktion: FORTSCHRITT, Benutzer: marshmello0w 
+[2025-06-15T04:00:01.597Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 64 
+[2025-06-15T04:00:02.268Z] [SUCCESS] Webhook gesendet: FORTSCHRITT an 1383644615864881202... 
+[2025-06-15T04:00:02.269Z] [INFO] Auftrag #14 aktualisiert {"user":"marshmello0w","action":"increment","fortschritt":4}
+[2025-06-15T04:00:02.519Z] [INFO] Füge Historie hinzu: Auftrag 14, Aktion: FORTSCHRITT, Benutzer: marshmello0w 
+[2025-06-15T04:00:02.521Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 65 
+[2025-06-15T04:00:02.522Z] [INFO] Füge Historie hinzu: Auftrag 14, Aktion: FORTSCHRITT, Benutzer: marshmello0w 
+[2025-06-15T04:00:02.524Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 66 
+[2025-06-15T04:00:02.872Z] [SUCCESS] Webhook gesendet: FORTSCHRITT an 1383644615864881202... 
+[2025-06-15T04:00:02.875Z] [INFO] Füge Historie hinzu: Auftrag 14, Aktion: ABGESCHLOSSEN, Benutzer: marshmello0w 
+[2025-06-15T04:00:02.877Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 67 
+[2025-06-15T04:00:03.435Z] [SUCCESS] Webhook gesendet: ABGESCHLOSSEN an 1383644656834973736... 
+[2025-06-15T04:00:03.437Z] [INFO] Auftrag #14 aktualisiert {"user":"marshmello0w","action":"complete","fortschritt":20}
+[2025-06-15T04:00:04.964Z] [INFO] Füge Historie hinzu: Auftrag 14, Aktion: ABGEGEBEN, Benutzer: marshmello0w 
+[2025-06-15T04:00:04.967Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 68 
+[2025-06-15T04:00:05.324Z] [SUCCESS] Webhook gesendet: ABGEGEBEN an 1383644692784087110... 
+[2025-06-15T04:00:05.624Z] [INFO] Auftrag #14 gelöscht {"user":"marshmello0w"}
+[2025-06-15T04:00:20.313Z] [INFO] Historie für Auftrag #14 abgerufen {"user":"marshmello0w","auftragExistiert":false}
+[2025-06-15T04:03:28.680Z] [INFO] Command geladen: craft 
+[2025-06-15T04:03:28.688Z] [INFO] Command geladen: history 
+[2025-06-15T04:03:28.690Z] [INFO] Command geladen: list 
+[2025-06-15T04:03:28.692Z] [INFO] Command geladen: restore 
+[2025-06-15T04:03:28.694Z] [INFO] Command geladen: stats 
+[2025-06-15T04:03:28.698Z] [INFO] Event geladen: ready 
+[2025-06-15T04:03:28.696Z] [INFO] Event geladen: interactionCreate 
+[2025-06-15T04:03:28.741Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[2025-06-15T04:03:29.514Z] [SUCCESS] Bot ist online als Blackwater Assistant#4877 
+[2025-06-15T04:03:29.516Z] [INFO] Aktiv auf 1 Server(n) 
+[2025-06-15T04:03:29.516Z] [INFO] - Blackwater and Friends (1073317123516027031) - 24 Mitglieder 
+[2025-06-15T04:03:29.691Z] [SUCCESS] 5 Commands in Guild Blackwater and Friends registriert 
+[2025-06-15T04:08:31.419Z] [INFO] Command geladen: craft 
+[2025-06-15T04:08:31.426Z] [INFO] Command geladen: history 
+[2025-06-15T04:08:31.428Z] [INFO] Command geladen: list 
+[2025-06-15T04:08:31.429Z] [INFO] Command geladen: restore 
+[2025-06-15T04:08:31.431Z] [INFO] Command geladen: stats 
+[2025-06-15T04:08:31.434Z] [INFO] Event geladen: ready 
+[2025-06-15T04:08:31.433Z] [INFO] Event geladen: interactionCreate 
+[2025-06-15T04:08:31.481Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[2025-06-15T04:08:32.155Z] [SUCCESS] Bot ist online als Blackwater Assistant#4877 
+[2025-06-15T04:08:32.157Z] [INFO] - Blackwater and Friends (1073317123516027031) - 24 Mitglieder 
+[2025-06-15T04:08:32.156Z] [INFO] Aktiv auf 1 Server(n) 
+[2025-06-15T04:08:32.337Z] [SUCCESS] 5 Commands in Guild Blackwater and Friends registriert 
+[2025-06-15T04:15:24.092Z] [INFO] Command geladen: craft 
+[2025-06-15T04:15:24.097Z] [INFO] Command geladen: history 
+[2025-06-15T04:15:24.099Z] [INFO] Command geladen: list 
+[2025-06-15T04:15:24.100Z] [INFO] Command geladen: restore 
+[2025-06-15T04:15:24.101Z] [INFO] Command geladen: stats 
+[2025-06-15T04:15:24.103Z] [INFO] Event geladen: interactionCreate 
+[2025-06-15T04:15:24.104Z] [INFO] Event geladen: ready 
+[2025-06-15T04:15:24.139Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[2025-06-15T04:15:24.954Z] [SUCCESS] Bot ist online als Blackwater Assistant#4877 
+[2025-06-15T04:15:24.956Z] [INFO] Aktiv auf 1 Server(n) 
+[2025-06-15T04:15:24.957Z] [INFO] - Blackwater and Friends (1073317123516027031) - 24 Mitglieder 
+[2025-06-15T04:15:25.134Z] [SUCCESS] 5 Commands in Guild Blackwater and Friends registriert 
+[2025-06-15T04:16:57.087Z] [INFO] Füge Historie hinzu: Auftrag 1, Aktion: ERSTELLT, Benutzer: marshmello0w#0 
+[2025-06-15T04:16:57.090Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 1 
+[2025-06-15T04:16:57.666Z] [SUCCESS] Webhook gesendet: ERSTELLT an 1383644573812916284... 
+[2025-06-15T04:16:57.666Z] [INFO] Auftrag #1 erstellt {"user":"marshmello0w","kunde":"test","gegenstand":"Pistole","menge":1}
+[2025-06-15T04:17:08.716Z] [INFO] Füge Historie hinzu: Auftrag 1, Aktion: FORTSCHRITT, Benutzer: marshmello0w 
+[2025-06-15T04:17:08.718Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 2 
+[2025-06-15T04:17:08.719Z] [INFO] Füge Historie hinzu: Auftrag 1, Aktion: FORTSCHRITT, Benutzer: marshmello0w 
+[2025-06-15T04:17:08.720Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 3 
+[2025-06-15T04:17:10.362Z] [SUCCESS] Webhook gesendet: FORTSCHRITT an 1383644615864881202... 
+[2025-06-15T04:17:10.367Z] [INFO] Füge Historie hinzu: Auftrag 1, Aktion: ABGESCHLOSSEN, Benutzer: marshmello0w 
+[2025-06-15T04:17:10.368Z] [INFO] Füge Historie hinzu: Auftrag 1, Aktion: ABGESCHLOSSEN, Benutzer: marshmello0w 
+[2025-06-15T04:17:10.368Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 4 
+[2025-06-15T04:17:10.370Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 5 
+[2025-06-15T04:17:10.833Z] [SUCCESS] Webhook gesendet: ABGESCHLOSSEN an 1383644656834973736... 
+[2025-06-15T04:17:10.833Z] [INFO] Auftrag #1 abgeschlossen mit Google Sheet Bestätigung {"user":"marshmello0w","notizen":"test"}
+[2025-06-15T04:17:34.186Z] [INFO] Füge Historie hinzu: Auftrag 1, Aktion: ABGEGEBEN, Benutzer: marshmello0w 
+[2025-06-15T04:17:34.188Z] [SUCCESS] Historie erfolgreich hinzugefügt - ID: 6 
+[2025-06-15T04:17:34.454Z] [SUCCESS] Webhook gesendet: ABGEGEBEN an 1383644692784087110... 
+[2025-06-15T04:17:34.715Z] [INFO] Auftrag #1 gelöscht {"user":"marshmello0w"}

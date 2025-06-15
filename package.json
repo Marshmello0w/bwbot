@@ -1,0 +1,31 @@
+﻿{
+  "name": "blackwater-crafting-bot",
+  "version": "2.0.0",
+  "description": "Discord Bot fÃ¼r das Blackwater Crafting System",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "crafting",
+    "blackwater"
+  ],
+  "author": "Blackwater Team",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "mysql2": "^3.9.1",
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "engines": {
+    "node": ">=16.11.0"
+  }
+}

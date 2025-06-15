@@ -1,0 +1,140 @@
+2025-06-15T02:48:56: [36m[2025-06-15T02:48:56.994Z] [INFO] Command geladen: craft 
+[0m
+2025-06-15T02:48:56: [36m[2025-06-15T02:48:56.999Z] [INFO] Command geladen: list 
+[0m
+2025-06-15T02:48:57: [36m[2025-06-15T02:48:57.001Z] [INFO] Command geladen: stats 
+[0m
+2025-06-15T02:48:57: [36m[2025-06-15T02:48:57.004Z] [INFO] Event geladen: interactionCreate 
+[0m
+2025-06-15T02:48:57: [36m[2025-06-15T02:48:57.005Z] [INFO] Event geladen: ready 
+[0m
+2025-06-15T02:48:57: [36m[2025-06-15T02:48:57.596Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[0m
+2025-06-15T02:48:58: [31m[2025-06-15T02:48:58.725Z] [ERROR] Fehler beim Starten des Bots: {"message":"Used disallowed intents","stack":"Error: Used disallowed intents\n    at WebSocketShard.onClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\@discordjs\\ws\\dist\\index.js:1151:18)\n    at connection.onclose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\@discordjs\\ws\\dist\\index.js:688:17)\n    at callListener (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\event-target.js:220:9)\n    at WebSocket.emit (node:events:518:28)\n    at WebSocket.emitClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\websocket.js:272:10)\n    at TLSSocket.socketOnClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\websocket.js:1341:15)\n    at TLSSocket.emit (node:events:530:35)\n    at node:net:351:12\n    at TCP.done (node:_tls_wrap:650:7)"}
+[0m
+2025-06-15T02:49:00: [36m[2025-06-15T02:49:00.338Z] [INFO] Command geladen: craft 
+[0m
+2025-06-15T02:49:00: [36m[2025-06-15T02:49:00.343Z] [INFO] Command geladen: list 
+[0m
+2025-06-15T02:49:00: [36m[2025-06-15T02:49:00.345Z] [INFO] Command geladen: stats 
+[0m
+2025-06-15T02:49:00: [36m[2025-06-15T02:49:00.347Z] [INFO] Event geladen: interactionCreate 
+[0m
+2025-06-15T02:49:00: [36m[2025-06-15T02:49:00.348Z] [INFO] Event geladen: ready 
+[0m
+2025-06-15T02:49:00: [36m[2025-06-15T02:49:00.826Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[0m
+2025-06-15T02:49:01: [31m[2025-06-15T02:49:01.951Z] [ERROR] Fehler beim Starten des Bots: {"message":"Used disallowed intents","stack":"Error: Used disallowed intents\n    at WebSocketShard.onClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\@discordjs\\ws\\dist\\index.js:1151:18)\n    at connection.onclose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\@discordjs\\ws\\dist\\index.js:688:17)\n    at callListener (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\event-target.js:220:9)\n    at WebSocket.emit (node:events:518:28)\n    at WebSocket.emitClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\websocket.js:272:10)\n    at TLSSocket.socketOnClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\websocket.js:1341:15)\n    at TLSSocket.emit (node:events:530:35)\n    at node:net:351:12\n    at TCP.done (node:_tls_wrap:650:7)"}
+[0m
+2025-06-15T02:49:03: [36m[2025-06-15T02:49:03.702Z] [INFO] Command geladen: craft 
+[0m
+2025-06-15T02:49:03: [36m[2025-06-15T02:49:03.707Z] [INFO] Command geladen: list 
+[0m
+2025-06-15T02:49:03: [36m[2025-06-15T02:49:03.708Z] [INFO] Command geladen: stats 
+[0m
+2025-06-15T02:49:03: [36m[2025-06-15T02:49:03.711Z] [INFO] Event geladen: interactionCreate 
+[0m
+2025-06-15T02:49:03: [36m[2025-06-15T02:49:03.712Z] [INFO] Event geladen: ready 
+[0m
+2025-06-15T02:49:04: [36m[2025-06-15T02:49:04.195Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[0m
+2025-06-15T02:49:05: [31m[2025-06-15T02:49:05.391Z] [ERROR] Fehler beim Starten des Bots: {"message":"Used disallowed intents","stack":"Error: Used disallowed intents\n    at WebSocketShard.onClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\@discordjs\\ws\\dist\\index.js:1151:18)\n    at connection.onclose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\@discordjs\\ws\\dist\\index.js:688:17)\n    at callListener (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\event-target.js:220:9)\n    at WebSocket.emit (node:events:518:28)\n    at WebSocket.emitClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\websocket.js:272:10)\n    at TLSSocket.socketOnClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\websocket.js:1341:15)\n    at TLSSocket.emit (node:events:530:35)\n    at node:net:351:12\n    at TCP.done (node:_tls_wrap:650:7)"}
+[0m
+2025-06-15T02:49:07: [36m[2025-06-15T02:49:07.138Z] [INFO] Command geladen: craft 
+[0m
+2025-06-15T02:49:07: [36m[2025-06-15T02:49:07.142Z] [INFO] Command geladen: list 
+[0m
+2025-06-15T02:49:07: [36m[2025-06-15T02:49:07.143Z] [INFO] Command geladen: stats 
+[0m
+2025-06-15T02:49:07: [36m[2025-06-15T02:49:07.148Z] [INFO] Event geladen: interactionCreate 
+[0m
+2025-06-15T02:49:07: [36m[2025-06-15T02:49:07.149Z] [INFO] Event geladen: ready 
+[0m
+2025-06-15T02:49:07: [36m[2025-06-15T02:49:07.635Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[0m
+2025-06-15T02:49:08: [31m[2025-06-15T02:49:08.879Z] [ERROR] Fehler beim Starten des Bots: {"message":"Used disallowed intents","stack":"Error: Used disallowed intents\n    at WebSocketShard.onClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\@discordjs\\ws\\dist\\index.js:1151:18)\n    at connection.onclose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\@discordjs\\ws\\dist\\index.js:688:17)\n    at callListener (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\event-target.js:220:9)\n    at WebSocket.emit (node:events:518:28)\n    at WebSocket.emitClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\websocket.js:272:10)\n    at TLSSocket.socketOnClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\websocket.js:1341:15)\n    at TLSSocket.emit (node:events:530:35)\n    at node:net:351:12\n    at TCP.done (node:_tls_wrap:650:7)"}
+[0m
+2025-06-15T02:49:10: [36m[2025-06-15T02:49:10.739Z] [INFO] Command geladen: craft 
+[0m
+2025-06-15T02:49:10: [36m[2025-06-15T02:49:10.744Z] [INFO] Command geladen: list 
+[0m
+2025-06-15T02:49:10: [36m[2025-06-15T02:49:10.746Z] [INFO] Command geladen: stats 
+[0m
+2025-06-15T02:49:10: [36m[2025-06-15T02:49:10.748Z] [INFO] Event geladen: interactionCreate 
+[0m
+2025-06-15T02:49:10: [36m[2025-06-15T02:49:10.750Z] [INFO] Event geladen: ready 
+[0m
+2025-06-15T02:49:11: [36m[2025-06-15T02:49:11.263Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[0m
+2025-06-15T02:49:17: [31m[2025-06-15T02:49:17.435Z] [ERROR] Fehler beim Starten des Bots: {"message":"Used disallowed intents","stack":"Error: Used disallowed intents\n    at WebSocketShard.onClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\@discordjs\\ws\\dist\\index.js:1151:18)\n    at connection.onclose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\@discordjs\\ws\\dist\\index.js:688:17)\n    at callListener (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\event-target.js:220:9)\n    at WebSocket.emit (node:events:518:28)\n    at WebSocket.emitClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\websocket.js:272:10)\n    at TLSSocket.socketOnClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\websocket.js:1341:15)\n    at TLSSocket.emit (node:events:530:35)\n    at node:net:351:12\n    at TCP.done (node:_tls_wrap:650:7)"}
+[0m
+2025-06-15T02:49:19: [36m[2025-06-15T02:49:19.468Z] [INFO] Command geladen: craft 
+[0m
+2025-06-15T02:49:19: [36m[2025-06-15T02:49:19.472Z] [INFO] Command geladen: list 
+[0m
+2025-06-15T02:49:19: [36m[2025-06-15T02:49:19.474Z] [INFO] Command geladen: stats 
+[0m
+2025-06-15T02:49:19: [36m[2025-06-15T02:49:19.476Z] [INFO] Event geladen: interactionCreate 
+[0m
+2025-06-15T02:49:19: [36m[2025-06-15T02:49:19.478Z] [INFO] Event geladen: ready 
+[0m
+2025-06-15T02:49:19: [36m[2025-06-15T02:49:19.959Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[0m
+2025-06-15T02:49:21: [31m[2025-06-15T02:49:21.014Z] [ERROR] Fehler beim Starten des Bots: {"message":"Used disallowed intents","stack":"Error: Used disallowed intents\n    at WebSocketShard.onClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\@discordjs\\ws\\dist\\index.js:1151:18)\n    at connection.onclose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\@discordjs\\ws\\dist\\index.js:688:17)\n    at callListener (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\event-target.js:220:9)\n    at WebSocket.emit (node:events:518:28)\n    at WebSocket.emitClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\websocket.js:272:10)\n    at TLSSocket.socketOnClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\websocket.js:1341:15)\n    at TLSSocket.emit (node:events:530:35)\n    at node:net:351:12\n    at TCP.done (node:_tls_wrap:650:7)"}
+[0m
+2025-06-15T02:49:23: [36m[2025-06-15T02:49:23.282Z] [INFO] Command geladen: craft 
+[0m
+2025-06-15T02:49:23: [36m[2025-06-15T02:49:23.287Z] [INFO] Command geladen: list 
+[0m
+2025-06-15T02:49:23: [36m[2025-06-15T02:49:23.290Z] [INFO] Command geladen: stats 
+[0m
+2025-06-15T02:49:23: [36m[2025-06-15T02:49:23.292Z] [INFO] Event geladen: interactionCreate 
+[0m
+2025-06-15T02:49:23: [36m[2025-06-15T02:49:23.293Z] [INFO] Event geladen: ready 
+[0m
+2025-06-15T02:49:23: [36m[2025-06-15T02:49:23.769Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[0m
+2025-06-15T02:49:24: [31m[2025-06-15T02:49:24.913Z] [ERROR] Fehler beim Starten des Bots: {"message":"Used disallowed intents","stack":"Error: Used disallowed intents\n    at WebSocketShard.onClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\@discordjs\\ws\\dist\\index.js:1151:18)\n    at connection.onclose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\@discordjs\\ws\\dist\\index.js:688:17)\n    at callListener (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\event-target.js:220:9)\n    at WebSocket.emit (node:events:518:28)\n    at WebSocket.emitClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\websocket.js:272:10)\n    at TLSSocket.socketOnClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\websocket.js:1341:15)\n    at TLSSocket.emit (node:events:530:35)\n    at node:net:351:12\n    at TCP.done (node:_tls_wrap:650:7)"}
+[0m
+2025-06-15T02:49:27: [36m[2025-06-15T02:49:27.554Z] [INFO] Command geladen: craft 
+[0m
+2025-06-15T02:49:27: [36m[2025-06-15T02:49:27.558Z] [INFO] Command geladen: list 
+[0m
+2025-06-15T02:49:27: [36m[2025-06-15T02:49:27.560Z] [INFO] Command geladen: stats 
+[0m
+2025-06-15T02:49:27: [36m[2025-06-15T02:49:27.563Z] [INFO] Event geladen: interactionCreate 
+[0m
+2025-06-15T02:49:27: [36m[2025-06-15T02:49:27.564Z] [INFO] Event geladen: ready 
+[0m
+2025-06-15T02:49:28: [36m[2025-06-15T02:49:28.046Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[0m
+2025-06-15T02:49:29: [31m[2025-06-15T02:49:29.189Z] [ERROR] Fehler beim Starten des Bots: {"message":"Used disallowed intents","stack":"Error: Used disallowed intents\n    at WebSocketShard.onClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\@discordjs\\ws\\dist\\index.js:1151:18)\n    at connection.onclose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\@discordjs\\ws\\dist\\index.js:688:17)\n    at callListener (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\event-target.js:220:9)\n    at WebSocket.emit (node:events:518:28)\n    at WebSocket.emitClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\websocket.js:272:10)\n    at TLSSocket.socketOnClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\websocket.js:1341:15)\n    at TLSSocket.emit (node:events:530:35)\n    at node:net:351:12\n    at TCP.done (node:_tls_wrap:650:7)"}
+[0m
+2025-06-15T02:49:32: [36m[2025-06-15T02:49:32.379Z] [INFO] Command geladen: craft 
+[0m
+2025-06-15T02:49:32: [36m[2025-06-15T02:49:32.384Z] [INFO] Command geladen: list 
+[0m
+2025-06-15T02:49:32: [36m[2025-06-15T02:49:32.386Z] [INFO] Command geladen: stats 
+[0m
+2025-06-15T02:49:32: [36m[2025-06-15T02:49:32.388Z] [INFO] Event geladen: interactionCreate 
+[0m
+2025-06-15T02:49:32: [36m[2025-06-15T02:49:32.389Z] [INFO] Event geladen: ready 
+[0m
+2025-06-15T02:49:32: [36m[2025-06-15T02:49:32.870Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[0m
+2025-06-15T02:49:34: [31m[2025-06-15T02:49:34.068Z] [ERROR] Fehler beim Starten des Bots: {"message":"Used disallowed intents","stack":"Error: Used disallowed intents\n    at WebSocketShard.onClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\@discordjs\\ws\\dist\\index.js:1151:18)\n    at connection.onclose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\@discordjs\\ws\\dist\\index.js:688:17)\n    at callListener (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\event-target.js:220:9)\n    at WebSocket.emit (node:events:518:28)\n    at WebSocket.emitClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\websocket.js:272:10)\n    at TLSSocket.socketOnClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\websocket.js:1341:15)\n    at TLSSocket.emit (node:events:530:35)\n    at node:net:351:12\n    at TCP.done (node:_tls_wrap:650:7)"}
+[0m
+2025-06-15T02:49:38: [36m[2025-06-15T02:49:38.091Z] [INFO] Command geladen: craft 
+[0m
+2025-06-15T02:49:38: [36m[2025-06-15T02:49:38.095Z] [INFO] Command geladen: list 
+[0m
+2025-06-15T02:49:38: [36m[2025-06-15T02:49:38.097Z] [INFO] Command geladen: stats 
+[0m
+2025-06-15T02:49:38: [36m[2025-06-15T02:49:38.100Z] [INFO] Event geladen: interactionCreate 
+[0m
+2025-06-15T02:49:38: [36m[2025-06-15T02:49:38.101Z] [INFO] Event geladen: ready 
+[0m
+2025-06-15T02:49:38: [36m[2025-06-15T02:49:38.611Z] [INFO] Datenbankverbindung erfolgreich hergestellt 
+[0m
+2025-06-15T02:49:39: [31m[2025-06-15T02:49:39.732Z] [ERROR] Fehler beim Starten des Bots: {"message":"Used disallowed intents","stack":"Error: Used disallowed intents\n    at WebSocketShard.onClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\@discordjs\\ws\\dist\\index.js:1151:18)\n    at connection.onclose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\@discordjs\\ws\\dist\\index.js:688:17)\n    at callListener (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\event-target.js:220:9)\n    at WebSocket.emit (node:events:518:28)\n    at WebSocket.emitClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\websocket.js:272:10)\n    at TLSSocket.socketOnClose (C:\\Users\\Administrator\\Desktop\\blackwater-bot\\node_modules\\ws\\lib\\websocket.js:1341:15)\n    at TLSSocket.emit (node:events:530:35)\n    at node:net:351:12\n    at TCP.done (node:_tls_wrap:650:7)"}
+[0m
